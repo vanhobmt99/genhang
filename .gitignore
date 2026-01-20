@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Output files
+cards.txt
+errors.txt
+
+# OS
+Thumbs.db
+.DS_Store
